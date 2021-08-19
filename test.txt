@@ -2,4 +2,8 @@ starting
 one 
 two
 some chages in main branch
+<<<<<<< HEAD
 one chage form main
+=======
+some changes from feature
+>>>>>>> 1d50edd (some changes from feature)
